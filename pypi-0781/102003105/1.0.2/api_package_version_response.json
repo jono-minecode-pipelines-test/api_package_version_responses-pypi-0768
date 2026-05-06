@@ -1,0 +1,80 @@
+{
+    "info": {
+        "author": "Aditya Kuthiala",
+        "author_email": "adityakuthiala1806@gmail.com",
+        "bugtrack_url": null,
+        "classifiers": [
+            "Development Status :: 3 - Alpha",
+            "Intended Audience :: Developers",
+            "License :: OSI Approved :: MIT License",
+            "Operating System :: Microsoft :: Windows :: Windows 10",
+            "Programming Language :: Python :: 3"
+        ],
+        "description": "",
+        "description_content_type": "",
+        "docs_url": null,
+        "download_url": "",
+        "downloads": {
+            "last_day": -1,
+            "last_month": -1,
+            "last_week": -1
+        },
+        "dynamic": null,
+        "home_page": "https://github.com/AdiK1806/Topsis-Aditya-102003105",
+        "keywords": "topsis,TIET,Thapar",
+        "license": "MIT",
+        "license_expression": null,
+        "license_files": null,
+        "maintainer": "",
+        "maintainer_email": "",
+        "name": "102003105",
+        "package_url": "https://pypi.org/project/102003105/",
+        "platform": null,
+        "project_url": "https://pypi.org/project/102003105/",
+        "project_urls": {
+            "Homepage": "https://github.com/AdiK1806/Topsis-Aditya-102003105"
+        },
+        "provides_extra": null,
+        "release_url": "https://pypi.org/project/102003105/1.0.2/",
+        "requires_dist": null,
+        "requires_python": "",
+        "summary": "A Python package to find TOPSIS for Multi-Criteria Decision Analysis Method",
+        "version": "1.0.2",
+        "yanked": false,
+        "yanked_reason": null
+    },
+    "last_serial": 16521453,
+    "ownership": {
+        "organization": null,
+        "roles": [
+            {
+                "role": "Owner",
+                "user": "adityakuthiala1806"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "a9494bc9876ce5219c70f8f08e71ab66aed2d69e7b457d7da5e30c7b148e69d6",
+                "md5": "6f087c680eca936927d92a511e8ed116",
+                "sha256": "8b0080bc496e4a6f7e3c3b3ec3445f722a5be80ed50fd594502e3c6c280a70cf"
+            },
+            "downloads": -1,
+            "filename": "102003105-1.0.2.tar.gz",
+            "has_sig": false,
+            "md5_digest": "6f087c680eca936927d92a511e8ed116",
+            "packagetype": "sdist",
+            "python_version": "source",
+            "requires_python": null,
+            "size": 3567,
+            "upload_time": "2023-01-22T12:44:01",
+            "upload_time_iso_8601": "2023-01-22T12:44:01.212306Z",
+            "url": "https://files.pythonhosted.org/packages/a9/49/4bc9876ce5219c70f8f08e71ab66aed2d69e7b457d7da5e30c7b148e69d6/102003105-1.0.2.tar.gz",
+            "yanked": false,
+            "yanked_reason": null
+        }
+    ],
+    "vulnerabilities": []
+}
